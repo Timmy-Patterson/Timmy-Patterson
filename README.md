@@ -5,12 +5,14 @@
  <img alt="YOUR-ALT-TEXT" src="YOUR-DEFAULT-IMAGE">
 </picture>
 -->
-## About me
+### About me
 
 Hi, I'm Tim and I dig writing code.
 
+### Language Rankings
+
 <details open>
-<summary>My top THINGS-TO-RANK</summary>
+<summary>My Rankings</summary>
 
 | Rank | Languages     |
 |-----:|---------------|
@@ -19,6 +21,8 @@ Hi, I'm Tim and I dig writing code.
 |     3| Java          |
 |     4| Perl          |
 |     5| Kafka         |
+|     6| C/C++         |
+|     7| Python        |
 
  </details>
 
