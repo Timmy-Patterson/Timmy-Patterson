@@ -27,5 +27,5 @@ Hi, I'm Tim and I dig writing code.
  </details>
 
 ---
-“Truth can only be found in one place: the code.”
+> “Truth can only be found in one place: the code.”
 ― Robert C. Martin
