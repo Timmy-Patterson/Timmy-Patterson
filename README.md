@@ -7,7 +7,7 @@
 -->
 ### About me
 
-Hi, I'm Tim and I dig writing code.
+Hi.
 
 ### Language Rankings
 
